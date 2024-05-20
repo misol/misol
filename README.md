@@ -33,6 +33,9 @@ I am interested in pharmacokinetic and pharmacodynamic modelling for general and
 -	Nucleotide quantitation: qPCR; Nano-drop
 -	Cell works: Subculture; Uptake assay; Bi-directional permeability assay; Cell counting; Viability assay using trypan blue exclusion assay
 
+## License
+- Registered pharmacist in the Republic of Korea
+
 ## Related links
 - [my blog](https://misol.kr/)
 - [ORCID profile](https://orcid.org/0000-0001-9229-4701)
