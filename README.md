@@ -3,7 +3,7 @@ Postdoctoral fellow, School of Pharmacy, University of Waterloo, Kitchener, ON, 
 
 I am interested in pharmacokinetic and pharmacodynamic modelling for general and special populations and in enhancing the software's public accessibility and transparency.
 
-[See my LinkedIn profile for more details.](www.linkedin.com/in/misolkr)
+[See my LinkedIn profile for more details.](https://www.linkedin.com/in/misolkr)
 
 ## Education
 - Doctor of Philosophy in Pharmacy (2022)
