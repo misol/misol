@@ -1,9 +1,12 @@
 # Hello, I am Min-Soo Kim
-Postdoctoral fellow, School of Pharmacy, University of Waterloo, Kitchener, ON, Canada
-
-I am interested in pharmacokinetic and pharmacodynamic modelling for general and special populations and in enhancing the software's public accessibility and transparency.
+I am interested in pharmacokinetic and pharmacodynamic modelling for general and special populations.
 
 [See my LinkedIn profile for more details.](https://www.linkedin.com/in/misolkr)
+
+## Experience
+- Senior Manager, Alexion (2025-)
+- Postdoctoral Fellow, University of Waterloo (2023-2025)
+- Postdoctoral Fellow, Seoul National University (2022-2023)
 
 ## Education
 - Doctor of Philosophy in Pharmacy (2022)
@@ -20,12 +23,12 @@ I am interested in pharmacokinetic and pharmacodynamic modelling for general and
 ### Human languages
 - Korean
 - English
-### Computer languages and skills
+### Modelling Skills
 -	Physiologically based pharmacokinetic modelling using Berkeley Madonna, WinNonlin, Python, R, MATLAB, PK-Sim/Mobi and Simcyp
 -	Population pharmacokinetic modelling using NONMEM
 <img src="https://github-readme-stats.vercel.app/api/top-langs?username=misol&show_icons=true&locale=en&layout=compact" alt="misol computer language" />
 
-## Other skills
+## Other Skills
 -	Non-compartmental and compartment model-based analysis
 -	Quantitative analysis using HPLC-UV, HPLC-MS/MS, and radiolabeled compounds using the liquid scintillation counter
 -	Protein bindings: Plasma protein binding assay using rapid equilibrium dialysis kit; Blood-to-plasma partition coefficient assay using the depletion method
@@ -36,7 +39,7 @@ I am interested in pharmacokinetic and pharmacodynamic modelling for general and
 ## License
 - Registered pharmacist in the Republic of Korea
 
-## Related links
+## Related Links
 - [my blog](https://misol.kr/)
 - [ORCID profile](https://orcid.org/0000-0001-9229-4701)
 - [my Twitter](https://x.com/misol_kr)
