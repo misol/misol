@@ -20,12 +20,14 @@ I am interested in pharmacokinetic and pharmacodynamic modelling for general and
 - [See my Google Scholar profile.](https://scholar.google.com/citations?user=i6GIMsoAAAAJ&hl=en)
 
 ## Languages
-### Human languages
+### Human Languages
 - Korean
 - English
+  
 ### Modelling Skills
--	Physiologically based pharmacokinetic modelling using Berkeley Madonna, WinNonlin, Python, R, MATLAB, PK-Sim/Mobi and Simcyp
--	Population pharmacokinetic modelling using NONMEM
+-	Physiologically based pharmacokinetic (PBPK) modelling using PK-Sim/Mobi and Simcyp
+-	Population pharmacokinetic (popPK) modelling using NONMEM
+-	General pharmacokinetic and pharmacodynamic modelling, including PBPK and popPK modelling, using Berkeley Madonna, WinNonlin, Python, R, and MATLAB
 <img src="https://github-readme-stats.vercel.app/api/top-langs?username=misol&show_icons=true&locale=en&layout=compact" alt="misol computer language" />
 
 ## Other Skills
