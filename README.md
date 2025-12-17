@@ -4,7 +4,7 @@ I am interested in pharmacokinetic and pharmacodynamic modelling for general and
 [See my LinkedIn profile for more details.](https://www.linkedin.com/in/misolkr)
 
 ## Experience
-- Senior Manager, Alexion (2025-)
+- Senior Manager, Alexion, AstraZeneca Rare Disease (2025-)
 - Postdoctoral Fellow, University of Waterloo (2023-2025)
 - Postdoctoral Fellow, Seoul National University (2022-2023)
 
@@ -43,4 +43,5 @@ I am interested in pharmacokinetic and pharmacodynamic modelling for general and
 - [my blog](https://misol.kr/)
 - [ORCID profile](https://orcid.org/0000-0001-9229-4701)
 - [my Twitter](https://x.com/misol_kr)
+- [my LinkedIn](https://www.linkedin.com/in/misolkr)
 
